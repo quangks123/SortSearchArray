@@ -18,4 +18,5 @@ public class Validation {
     public int random() {
         return new Random().nextInt(20);
     }
+    
 }
